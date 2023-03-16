@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
