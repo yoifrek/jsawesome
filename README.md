@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update Discord and Contributing Guide URLs (#9270)
