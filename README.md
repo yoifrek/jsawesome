@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
