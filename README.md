@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update docs building code (#7601)
