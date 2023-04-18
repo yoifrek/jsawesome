@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix OBB xywh-angle concatenation bug (#7404)
