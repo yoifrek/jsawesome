@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update inference.cpp (bug) (#7279)
