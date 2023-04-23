@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+OBB: Fix plot_images (#7592)
