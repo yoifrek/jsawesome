@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
