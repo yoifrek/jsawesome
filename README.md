@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
