@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
