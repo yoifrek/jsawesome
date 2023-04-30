@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+New HUB Cloud Training docs page (#8174)
