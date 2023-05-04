@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
