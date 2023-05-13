@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
