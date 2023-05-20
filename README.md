@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Clarify triton server boolean value (#8532)
