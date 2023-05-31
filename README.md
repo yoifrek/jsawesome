@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update inference.cpp (bug) (#7279)
