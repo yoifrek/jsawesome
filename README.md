@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Python refactorings and simplifications (#7549)
