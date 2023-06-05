@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
