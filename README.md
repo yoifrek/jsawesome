@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Pass callbacks to validator (#7320)
