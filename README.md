@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix docker.yaml double-quote version bug (#7452)
