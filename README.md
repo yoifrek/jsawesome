@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Improve Coral Edge TPU guide (#8160)
