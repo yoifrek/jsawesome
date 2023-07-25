@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
