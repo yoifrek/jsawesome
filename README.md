@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Fix docker.yaml double-quote version bug (#7452)
