@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
