@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Mkdocs updates (#8008)
