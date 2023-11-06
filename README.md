@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add CoreML Docs Integrations Page (#8063)
