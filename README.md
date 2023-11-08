@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
