@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
