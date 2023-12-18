@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
