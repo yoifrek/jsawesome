@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix OpenVINO links (#7930)
