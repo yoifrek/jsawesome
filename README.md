@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add docs guide terminal images (#8819)
