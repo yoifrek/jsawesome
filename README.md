@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
