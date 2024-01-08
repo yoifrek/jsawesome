@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
