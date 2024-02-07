@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Improve Docs Modes tables (#8266)
