@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update CITATION.cff with cffinit corrections (#8658)
