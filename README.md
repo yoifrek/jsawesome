@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
