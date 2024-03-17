@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Replace onnx2tf usage from CLI to Python (#8429)
