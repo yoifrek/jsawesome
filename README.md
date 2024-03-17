@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
