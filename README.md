@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
