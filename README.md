@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add YOLOv8 LibTorch C++ inference example (#7090)
