@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Explorer with LanceDB, Actions and Docs updates (#7487)
