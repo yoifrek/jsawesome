@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
