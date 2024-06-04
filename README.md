@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
