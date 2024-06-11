@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update CITATION.cff with cffinit corrections (#8658)
