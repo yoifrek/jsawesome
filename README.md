@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add PR Summary step to Ultralytics Actions (#7675)
