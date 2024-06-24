@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
