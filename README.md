@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
