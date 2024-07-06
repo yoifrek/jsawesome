@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Compare plt.get_backend() in lowercase (#8409)
