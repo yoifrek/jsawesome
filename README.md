@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
