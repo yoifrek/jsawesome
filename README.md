@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
