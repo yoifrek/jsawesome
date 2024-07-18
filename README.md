@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update Docs language dropdown height (#6927)
