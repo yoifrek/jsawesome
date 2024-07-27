@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Use pathlib in DOTA ops (#7552)
