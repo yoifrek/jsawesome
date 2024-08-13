@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
