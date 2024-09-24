@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Pass callbacks to validator (#7320)
