@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
