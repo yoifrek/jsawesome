@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
