@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Docs partial mdformat improvements (#7378)
