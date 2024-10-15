@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Optimize function calls to method calls (#8507)
